@@ -20,6 +20,7 @@ int main(int argc, char* argv[])
 {
 	cout << "My program in C++ Language." << endl;
 	cout << "This is my first lab" << endl;
+	cout << "Adding some rainbow" << endl;
 
 	return 0;
 }
